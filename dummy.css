@@ -1,0 +1,29 @@
+ p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 32px;
+    color: #1a2d84;
+}
+
+.container{
+    padding: 35px 15px 0 60px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.wrapper{
+    line-height: 18px;
+    font-weight: 700;
+    font-size: 18px; 
+    padding: 30px 32px 50px 32px;
+}
+
+span{
+    font-size: 16px;
+    word-spacing: 8px;
+    font-weight: 100;
+    text-align: justify;
+}
+
